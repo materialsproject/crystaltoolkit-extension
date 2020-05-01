@@ -19,7 +19,7 @@ export class ThreeRenderer extends Widget implements IRenderMime.IRenderer {
     this.addClass(CSS_CLASS);
     // Create image element
     this.threeContainer = (document.createElement('div') as HTMLDivElement);
-    this.threeContainer.setAttribute('style',  'height: 500px; width: 500px');
+    this.threeContainer.setAttribute('style',  'height: 600px; width: 600px');
     this.node.appendChild(this.threeContainer);
     console.log('created scene', this.threeScene);
   }
@@ -71,7 +71,7 @@ const extensions: IRenderMime.IExtension | IRenderMime.IExtension[] = [
         displayName: 'THREE',
         fileFormat: 'json',
         mimeTypes: [MIME_TYPE],
-        extensions: ['.scene', '.json', ['.scene.json']]
+        extensions: ['.scene', '.json', '.scene.json']
       }
     ],
     documentWidgetFactoryOptions: {

@@ -1,5 +1,5 @@
 {
-  "name": "jupyerlab-three",
+  "name": "jupyterlab-three",
   "version": "0.1.0",
   "description": "A JupyterLab extension for rendering rendering three Scene.",
   "author": "chabb <chabbey78@gmail.com>",
@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@jupyterlab/rendermime-interfaces": "^2.0.0",
-    "mat-periodic-table": "0.1.0-SNAPSHOT.1588251598",
+    "mat-periodic-table": "next",
     "@lumino/widgets": "^1.5.0"
   },
   "devDependencies": {

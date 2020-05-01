@@ -2004,10 +2004,10 @@ map-or-similar@^1.5.0:
   resolved "https://registry.yarnpkg.com/map-or-similar/-/map-or-similar-1.5.0.tgz#6de2653174adfb5d9edc33c69d3e92a1b76faf08"
   integrity sha1-beJlMXSt+12e3DPGnT6Sobdvrwg=
 
-mat-periodic-table@0.1.0-SNAPSHOT.1588251598:
-  version "0.1.0-SNAPSHOT.1588251598"
-  resolved "https://registry.yarnpkg.com/mat-periodic-table/-/mat-periodic-table-0.1.0-SNAPSHOT.1588251598.tgz#83abb6f14c77ff00455f4d164e964165c06bc965"
-  integrity sha512-SDiSMUWjDMgihGTBnW76da5jj7uFl3HYAsNYoj/RCymUwL9V5H7ob7tFw7EUe2tjc/wY7plo2qu49wmkl2Rllw==
+mat-periodic-table@next:
+  version "0.1.0-SNAPSHOT.1588324496"
+  resolved "https://registry.yarnpkg.com/mat-periodic-table/-/mat-periodic-table-0.1.0-SNAPSHOT.1588324496.tgz#49176b964c09f9ca4d8ab6941af238b126d03542"
+  integrity sha512-C9kOSITqOkFR9TstblLMjcc0Fwhxl3arx3a82166IRPKv3UKRV/7IUKdGm92fSXK+Glv3Uy+eVSujcAzZvOTcA==
   dependencies:
     "@s-ui/react-molecule-button-group" "^2.1.0"
     "@storybook/client-api" "^5.3.18"

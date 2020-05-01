@@ -4,3 +4,4 @@ node_modules/
 *.egg-info/
 .idea/
 .ipynb_checkpoints/
+*.scratch
