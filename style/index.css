@@ -1,0 +1,5 @@
+/*
+ * Note that this works because our less files is a regular css file
+ */
+
+@import url('~mat-periodic-table/src/crystal-toolkit-components/components-v2/Simple3DScene/Simple3DScene.less');
