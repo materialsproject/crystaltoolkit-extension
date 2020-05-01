@@ -1,6 +1,6 @@
 # jupyerlab-mp4
 
-A JupyterLab extension for rendering video/mp4 files.
+A JupyterLab extension for rendering three scene
 
 ## Prerequisites
 
