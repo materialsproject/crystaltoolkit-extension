@@ -1,76 +1,86 @@
 import { IRenderMime } from '@jupyterlab/rendermime-interfaces';
-
-
-
 import { Widget } from '@lumino/widgets';
+import { Simple3DScene } from 'mat-periodic-table';
 
-/**
- * The default mime type for the extension.
- */
-const MIME_TYPE = 'video/mp4';
+export const MIME_TYPE = 'application/vnd.mp.v1+json';
+export const CSS_CLASS = 'jp-three';
+export const CSS_ICON_CLASS = 'jp-icon-three';
 
-/**
- * The class name added to the extension.
- */
-const CLASS_NAME = 'mimerenderer-video/mp4';
+export class ThreeRenderer extends Widget implements IRenderMime.IRenderer {
 
-/**
- * A widget for rendering video/mp4.
- */
-export class OutputWidget extends Widget implements IRenderMime.IRenderer {
+  private threeContainer: HTMLDivElement;
+  private model!: IRenderMime.IMimeModel;
+  private threeScene: Simple3DScene;
   /**
-   * Construct a new output widget.
+   * Create a new widget for rendering Plotly.
    */
   constructor(options: IRenderMime.IRendererOptions) {
     super();
-    this._mimeType = options.mimeType;
-    this.addClass(CLASS_NAME);
+    this.addClass(CSS_CLASS);
+    // Create image element
+    this.threeContainer = (document.createElement('div') as HTMLDivElement);
+    this.threeContainer.setAttribute('style',  'height: 500px; width: 500px');
+    this.node.appendChild(this.threeContainer);
+    console.log('created scene', this.threeScene);
   }
-
   /**
-   * Render video/mp4 into this widget's node.
+   * Render Plotly into this widget's node.
    */
   renderModel(model: IRenderMime.IMimeModel): Promise<void> {
-    
-    let data = model.data[this._mimeType] as string;
-    this.node.textContent = data.slice(0, 16384);
-    
+    // Save off reference to model so that we can regenerate the plot later
+    this.model = model;
+    this.threeScene = new Simple3DScene(
+      model,
+      this.threeContainer,
+      {},
+      50,
+      10,
+      (objects: any[]) => {
+        // not sure what to do here
+        console.log('clicked on objects', objects);
+      },
+      () => {
+        /* we do not need to dispatch camera changes*/
+      },
+      null
+    );
+    this.threeScene.addToScene(this.model.data[MIME_TYPE]);
     return Promise.resolve();
   }
-
-  private _mimeType: string;
 }
 
 /**
- * A mime renderer factory for video/mp4 data.
+ * A mime renderer factory for Plotly data.
  */
 export const rendererFactory: IRenderMime.IRendererFactory = {
   safe: true,
   mimeTypes: [MIME_TYPE],
-  createRenderer: options => new OutputWidget(options)
+  createRenderer: options => new ThreeRenderer(options)
 };
 
-/**
- * Extension definition.
- */
-const extension: IRenderMime.IExtension = {
-  id: 'jupyerlab-mp4:plugin',
-  rendererFactory,
-  rank: 0,
-  dataType: 'string',
-  fileTypes: [
-    {
-      name: 'video/mp4',
-      mimeTypes: [MIME_TYPE],
-      extensions: ['.mp4']
+
+const extensions: IRenderMime.IExtension | IRenderMime.IExtension[] = [
+  {
+    id: '@jupyterlab/three-extension:plugin',
+    rendererFactory,
+    rank: 10,
+    dataType: 'json',
+    fileTypes: [
+      {
+        name: 'THREE',
+        displayName: 'THREE',
+        fileFormat: 'json',
+        mimeTypes: [MIME_TYPE],
+        extensions: ['.scene', '.json', ['.scene.json']]
+      }
+    ],
+    documentWidgetFactoryOptions: {
+      name: 'THREE',
+      primaryFileType: 'THREE',
+      fileTypes: ['THREE'],
+      defaultFor: ['THREE']
     }
-  ],
-  documentWidgetFactoryOptions: {
-    name: 'Juptyer mp4 ',
-    primaryFileType: 'video/mp4',
-    fileTypes: ['video/mp4'],
-    defaultFor: ['video/mp4']
   }
-};
+];
 
-export default extension;
+export default extensions;
