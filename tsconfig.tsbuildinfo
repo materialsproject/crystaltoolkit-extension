@@ -125,7 +125,7 @@
         "version": "cc0fca544c9ee63d754899e93ebae35c8ba8304a100126b9c3dadee2c91a2250",
         "signature": "cc0fca544c9ee63d754899e93ebae35c8ba8304a100126b9c3dadee2c91a2250"
       },
-      "./node_modules/@lumino/widgets/lib/boxengine.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxengine.d.ts": {
         "version": "518f0974b55341500d4234068f32fa9750c3d373f41edebbb99c47798b2d102b",
         "signature": "518f0974b55341500d4234068f32fa9750c3d373f41edebbb99c47798b2d102b"
       },
@@ -217,31 +217,31 @@
         "version": "62acc5046c9e8c868c652f056d78ff9debd117d25451eba8b5fad5c8cccde655",
         "signature": "62acc5046c9e8c868c652f056d78ff9debd117d25451eba8b5fad5c8cccde655"
       },
-      "./node_modules/@lumino/widgets/lib/title.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/title.d.ts": {
         "version": "54e77fa97fe3b31700f2b018ae1b4ff4094041b6a7718982a671186e813b736f",
         "signature": "54e77fa97fe3b31700f2b018ae1b4ff4094041b6a7718982a671186e813b736f"
       },
-      "./node_modules/@lumino/widgets/lib/widget.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts": {
         "version": "f6a911708cff86a5e64b79ef20566e30c95dc0a7e249dc71ec5fbcbe6706705b",
         "signature": "f6a911708cff86a5e64b79ef20566e30c95dc0a7e249dc71ec5fbcbe6706705b"
       },
-      "./node_modules/@lumino/widgets/lib/layout.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts": {
         "version": "bf0443ca576db0ebac92b2a59748210765e79d56a9a781d41b9adf9f19f64417",
         "signature": "bf0443ca576db0ebac92b2a59748210765e79d56a9a781d41b9adf9f19f64417"
       },
-      "./node_modules/@lumino/widgets/lib/panellayout.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panellayout.d.ts": {
         "version": "a170ed32949315f206f3b24b01463559f051dfd81454c07f6e52d41c928b51f2",
         "signature": "a170ed32949315f206f3b24b01463559f051dfd81454c07f6e52d41c928b51f2"
       },
-      "./node_modules/@lumino/widgets/lib/boxlayout.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxlayout.d.ts": {
         "version": "ae9cc5b6e39deb286bc628d893d2484b2c326ac4ddba65b62372a237498abbc8",
         "signature": "ae9cc5b6e39deb286bc628d893d2484b2c326ac4ddba65b62372a237498abbc8"
       },
-      "./node_modules/@lumino/widgets/lib/panel.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panel.d.ts": {
         "version": "d9bda13de04067b09bd723693fd3c87583b958d3593f0881e333fb75fa9e79e3",
         "signature": "d9bda13de04067b09bd723693fd3c87583b958d3593f0881e333fb75fa9e79e3"
       },
-      "./node_modules/@lumino/widgets/lib/boxpanel.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxpanel.d.ts": {
         "version": "6742b16104faa968b6daf0d577348e7be96c5988492c8bf5616fa79209de3906",
         "signature": "6742b16104faa968b6daf0d577348e7be96c5988492c8bf5616fa79209de3906"
       },
@@ -249,71 +249,71 @@
         "version": "88b691e9f79f6f28bd8295b4808aeb90614756256cac6e7e93459841d7643d60",
         "signature": "88b691e9f79f6f28bd8295b4808aeb90614756256cac6e7e93459841d7643d60"
       },
-      "./node_modules/@lumino/widgets/lib/commandpalette.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/commandpalette.d.ts": {
         "version": "82ae4f46e8b65c7b0a5d8804a555452333ff935750ef05dd3eb179435a43838a",
         "signature": "82ae4f46e8b65c7b0a5d8804a555452333ff935750ef05dd3eb179435a43838a"
       },
-      "./node_modules/@lumino/widgets/lib/menu.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menu.d.ts": {
         "version": "f53ee299fdb4c213db26023305c9bcab424cc4af4559eb9daf9aa4ecf90900fc",
         "signature": "f53ee299fdb4c213db26023305c9bcab424cc4af4559eb9daf9aa4ecf90900fc"
       },
-      "./node_modules/@lumino/widgets/lib/contextmenu.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/contextmenu.d.ts": {
         "version": "cfc25d2479421b9f89ecd21069ac277b086e2f93d6fbe6d169b54343a6dd7cdb",
         "signature": "cfc25d2479421b9f89ecd21069ac277b086e2f93d6fbe6d169b54343a6dd7cdb"
       },
-      "./node_modules/@lumino/widgets/lib/tabbar.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabbar.d.ts": {
         "version": "09190552321539054bfffcfc4ef74504c9253ff858037796641a1b0cc83e436a",
         "signature": "09190552321539054bfffcfc4ef74504c9253ff858037796641a1b0cc83e436a"
       },
-      "./node_modules/@lumino/widgets/lib/docklayout.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/docklayout.d.ts": {
         "version": "b26df2b53af86fd2caf3ffe2afdf208bb2fcf30b4ace9454487d8d311baecd60",
         "signature": "b26df2b53af86fd2caf3ffe2afdf208bb2fcf30b4ace9454487d8d311baecd60"
       },
-      "./node_modules/@lumino/widgets/lib/dockpanel.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/dockpanel.d.ts": {
         "version": "7eb9476ffdfc10f344ff0a686d783a2ff9fa8797722d692c077767a979975b7c",
         "signature": "7eb9476ffdfc10f344ff0a686d783a2ff9fa8797722d692c077767a979975b7c"
       },
-      "./node_modules/@lumino/widgets/lib/focustracker.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/focustracker.d.ts": {
         "version": "86020ba5f9603decdc09364cac1315e939ec4ccfa084f9fca7ac650b1d2bd0ec",
         "signature": "86020ba5f9603decdc09364cac1315e939ec4ccfa084f9fca7ac650b1d2bd0ec"
       },
-      "./node_modules/@lumino/widgets/lib/gridlayout.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/gridlayout.d.ts": {
         "version": "be0b06da33a0a27fdbe36564633711b29633fb9c7815d7c5c62460d2a027574a",
         "signature": "be0b06da33a0a27fdbe36564633711b29633fb9c7815d7c5c62460d2a027574a"
       },
-      "./node_modules/@lumino/widgets/lib/menubar.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menubar.d.ts": {
         "version": "17f9d9a823c857ea88dabbe94a3e718a3db5924c6e4950c00037402010ac430e",
         "signature": "17f9d9a823c857ea88dabbe94a3e718a3db5924c6e4950c00037402010ac430e"
       },
-      "./node_modules/@lumino/widgets/lib/scrollbar.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/scrollbar.d.ts": {
         "version": "d5bda740328264c917651833091016f73cde97f3ed47d2ce5b32161ffd4dc930",
         "signature": "d5bda740328264c917651833091016f73cde97f3ed47d2ce5b32161ffd4dc930"
       },
-      "./node_modules/@lumino/widgets/lib/singletonlayout.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/singletonlayout.d.ts": {
         "version": "5cd0aa97b8c05bc1d8827c44bc3a6be6941c73fe4bf88086d25ea8694a45134d",
         "signature": "5cd0aa97b8c05bc1d8827c44bc3a6be6941c73fe4bf88086d25ea8694a45134d"
       },
-      "./node_modules/@lumino/widgets/lib/splitlayout.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitlayout.d.ts": {
         "version": "7205a2b1a56dcfbecd10262e3f6d0f88e895e6e585c4dde839c51e15a62830e9",
         "signature": "7205a2b1a56dcfbecd10262e3f6d0f88e895e6e585c4dde839c51e15a62830e9"
       },
-      "./node_modules/@lumino/widgets/lib/splitpanel.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitpanel.d.ts": {
         "version": "db380b2a457001e3f1102b28989f8bd9b2bf69627f43fed92cde99e9f32016bb",
         "signature": "db380b2a457001e3f1102b28989f8bd9b2bf69627f43fed92cde99e9f32016bb"
       },
-      "./node_modules/@lumino/widgets/lib/stackedlayout.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedlayout.d.ts": {
         "version": "138dc46c339d7d67fb42404386e5f9f7150eff3a48061ca04d44f3555f9bdf6d",
         "signature": "138dc46c339d7d67fb42404386e5f9f7150eff3a48061ca04d44f3555f9bdf6d"
       },
-      "./node_modules/@lumino/widgets/lib/stackedpanel.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedpanel.d.ts": {
         "version": "1b395aaf7719842e8707846bcf19beff64cc89f7d28ea7c4d9e7f6bac17a90e0",
         "signature": "1b395aaf7719842e8707846bcf19beff64cc89f7d28ea7c4d9e7f6bac17a90e0"
       },
-      "./node_modules/@lumino/widgets/lib/tabpanel.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabpanel.d.ts": {
         "version": "182edba81e9d1154f0f772847ebd3098951cb6765496b8a0d24b9589bb9e9d57",
         "signature": "182edba81e9d1154f0f772847ebd3098951cb6765496b8a0d24b9589bb9e9d57"
       },
-      "./node_modules/@lumino/widgets/lib/index.d.ts": {
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/index.d.ts": {
         "version": "ce75ab9766be65e1b6837cba39ea25ebfbe25f431e0f97e1863743817fad2d91",
         "signature": "ce75ab9766be65e1b6837cba39ea25ebfbe25f431e0f97e1863743817fad2d91"
       },
@@ -321,8 +321,12 @@
         "version": "85497ff49b25c088caa764f9897a4b0a09825204dff99de9e75a0d6987330374",
         "signature": "85497ff49b25c088caa764f9897a4b0a09825204dff99de9e75a0d6987330374"
       },
+      "./node_modules/@lumino/widgets/lib/index.d.ts": {
+        "version": "ce75ab9766be65e1b6837cba39ea25ebfbe25f431e0f97e1863743817fad2d91",
+        "signature": "ce75ab9766be65e1b6837cba39ea25ebfbe25f431e0f97e1863743817fad2d91"
+      },
       "./src/index.ts": {
-        "version": "e0ae280e359c362c3c9ff2965cc3a715088c69f351130268b38bab6f000fdc29",
+        "version": "802c2297726a6ad7a04de229a5f56865ce052dc38006fbf5653ce87d2fb12de8",
         "signature": "3fa2475fec0969d3272068ee34aaec5298101ed0c437ddd8130190ba55fe6ef9"
       },
       "./src/types.d.ts": {
@@ -426,42 +430,42 @@
         "./node_modules/@lumino/algorithm/lib/index.d.ts",
         "./node_modules/@lumino/signaling/lib/index.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/title.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/title.d.ts": [
         "./node_modules/@lumino/signaling/lib/index.d.ts",
         "./node_modules/@lumino/virtualdom/lib/index.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/widget.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts": [
         "./node_modules/@lumino/algorithm/lib/index.d.ts",
         "./node_modules/@lumino/disposable/lib/index.d.ts",
         "./node_modules/@lumino/messaging/lib/index.d.ts",
         "./node_modules/@lumino/signaling/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/layout.d.ts",
-        "./node_modules/@lumino/widgets/lib/title.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/title.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/layout.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts": [
         "./node_modules/@lumino/algorithm/lib/index.d.ts",
         "./node_modules/@lumino/disposable/lib/index.d.ts",
         "./node_modules/@lumino/messaging/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/panellayout.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panellayout.d.ts": [
         "./node_modules/@lumino/algorithm/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/layout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/boxlayout.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxlayout.d.ts": [
         "./node_modules/@lumino/messaging/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/panellayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panellayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/panel.d.ts": [
-        "./node_modules/@lumino/widgets/lib/panellayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panel.d.ts": [
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panellayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/boxpanel.d.ts": [
-        "./node_modules/@lumino/widgets/lib/boxlayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/panel.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxpanel.d.ts": [
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
       "./node_modules/@lumino/commands/lib/index.d.ts": [
         "./node_modules/@lumino/coreutils/lib/index.d.ts",
@@ -469,137 +473,163 @@
         "./node_modules/@lumino/signaling/lib/index.d.ts",
         "./node_modules/@lumino/virtualdom/lib/index.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/commandpalette.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/commandpalette.d.ts": [
         "./node_modules/@lumino/coreutils/lib/index.d.ts",
         "./node_modules/@lumino/commands/lib/index.d.ts",
         "./node_modules/@lumino/messaging/lib/index.d.ts",
         "./node_modules/@lumino/virtualdom/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/menu.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menu.d.ts": [
         "./node_modules/@lumino/commands/lib/index.d.ts",
         "./node_modules/@lumino/coreutils/lib/index.d.ts",
         "./node_modules/@lumino/messaging/lib/index.d.ts",
         "./node_modules/@lumino/signaling/lib/index.d.ts",
         "./node_modules/@lumino/virtualdom/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/contextmenu.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/contextmenu.d.ts": [
         "./node_modules/@lumino/commands/lib/index.d.ts",
         "./node_modules/@lumino/disposable/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/menu.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menu.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/tabbar.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabbar.d.ts": [
         "./node_modules/@lumino/messaging/lib/index.d.ts",
         "./node_modules/@lumino/signaling/lib/index.d.ts",
         "./node_modules/@lumino/virtualdom/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/title.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/title.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/docklayout.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/docklayout.d.ts": [
         "./node_modules/@lumino/algorithm/lib/index.d.ts",
         "./node_modules/@lumino/messaging/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/layout.d.ts",
-        "./node_modules/@lumino/widgets/lib/tabbar.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabbar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/dockpanel.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/dockpanel.d.ts": [
         "./node_modules/@lumino/algorithm/lib/index.d.ts",
         "./node_modules/@lumino/messaging/lib/index.d.ts",
         "./node_modules/@lumino/signaling/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/docklayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/tabbar.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/docklayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabbar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/focustracker.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/focustracker.d.ts": [
         "./node_modules/@lumino/disposable/lib/index.d.ts",
         "./node_modules/@lumino/signaling/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/gridlayout.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/gridlayout.d.ts": [
         "./node_modules/@lumino/algorithm/lib/index.d.ts",
         "./node_modules/@lumino/messaging/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/layout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/menubar.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menubar.d.ts": [
         "./node_modules/@lumino/messaging/lib/index.d.ts",
         "./node_modules/@lumino/virtualdom/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/menu.d.ts",
-        "./node_modules/@lumino/widgets/lib/title.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menu.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/title.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/scrollbar.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/scrollbar.d.ts": [
         "./node_modules/@lumino/messaging/lib/index.d.ts",
         "./node_modules/@lumino/signaling/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/singletonlayout.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/singletonlayout.d.ts": [
         "./node_modules/@lumino/algorithm/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/layout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/splitlayout.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitlayout.d.ts": [
         "./node_modules/@lumino/messaging/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/panellayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panellayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/splitpanel.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitpanel.d.ts": [
         "./node_modules/@lumino/messaging/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/panel.d.ts",
-        "./node_modules/@lumino/widgets/lib/splitlayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/stackedlayout.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedlayout.d.ts": [
         "./node_modules/@lumino/messaging/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/panellayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panellayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/stackedpanel.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedpanel.d.ts": [
         "./node_modules/@lumino/signaling/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/panel.d.ts",
-        "./node_modules/@lumino/widgets/lib/stackedlayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/tabpanel.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabpanel.d.ts": [
         "./node_modules/@lumino/signaling/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/stackedpanel.d.ts",
-        "./node_modules/@lumino/widgets/lib/tabbar.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabbar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/index.d.ts": [
-        "./node_modules/@lumino/widgets/lib/boxengine.d.ts",
-        "./node_modules/@lumino/widgets/lib/boxlayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/boxpanel.d.ts",
-        "./node_modules/@lumino/widgets/lib/commandpalette.d.ts",
-        "./node_modules/@lumino/widgets/lib/contextmenu.d.ts",
-        "./node_modules/@lumino/widgets/lib/docklayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/dockpanel.d.ts",
-        "./node_modules/@lumino/widgets/lib/focustracker.d.ts",
-        "./node_modules/@lumino/widgets/lib/gridlayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/layout.d.ts",
-        "./node_modules/@lumino/widgets/lib/menu.d.ts",
-        "./node_modules/@lumino/widgets/lib/menubar.d.ts",
-        "./node_modules/@lumino/widgets/lib/panel.d.ts",
-        "./node_modules/@lumino/widgets/lib/panellayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/scrollbar.d.ts",
-        "./node_modules/@lumino/widgets/lib/singletonlayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/splitlayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/splitpanel.d.ts",
-        "./node_modules/@lumino/widgets/lib/stackedlayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/stackedpanel.d.ts",
-        "./node_modules/@lumino/widgets/lib/tabbar.d.ts",
-        "./node_modules/@lumino/widgets/lib/tabpanel.d.ts",
-        "./node_modules/@lumino/widgets/lib/title.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/index.d.ts": [
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxengine.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/commandpalette.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/contextmenu.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/docklayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/dockpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/focustracker.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/gridlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menu.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menubar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panellayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/scrollbar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/singletonlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabbar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/title.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
       "./node_modules/@jupyterlab/rendermime-interfaces/lib/index.d.ts": [
         "./node_modules/@lumino/coreutils/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/index.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/index.d.ts"
+      ],
+      "./node_modules/@lumino/widgets/lib/index.d.ts": [
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxengine.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/commandpalette.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/contextmenu.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/docklayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/dockpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/focustracker.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/gridlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menu.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menubar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panellayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/scrollbar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/singletonlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabbar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/title.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
       "./src/index.ts": [
         "./node_modules/@jupyterlab/rendermime-interfaces/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/index.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/index.d.ts"
       ]
     },
     "exportedModulesMap": {
@@ -613,64 +643,90 @@
       ],
       "./node_modules/@jupyterlab/rendermime-interfaces/lib/index.d.ts": [
         "./node_modules/@lumino/coreutils/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/index.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/index.d.ts"
       ],
       "./src/index.ts": [
         "./node_modules/@jupyterlab/rendermime-interfaces/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/index.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/index.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/menu.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menu.d.ts": [
         "./node_modules/@lumino/commands/lib/index.d.ts",
         "./node_modules/@lumino/coreutils/lib/index.d.ts",
         "./node_modules/@lumino/messaging/lib/index.d.ts",
         "./node_modules/@lumino/signaling/lib/index.d.ts",
         "./node_modules/@lumino/virtualdom/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
       "./node_modules/@lumino/widgets/lib/index.d.ts": [
-        "./node_modules/@lumino/widgets/lib/boxengine.d.ts",
-        "./node_modules/@lumino/widgets/lib/boxlayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/boxpanel.d.ts",
-        "./node_modules/@lumino/widgets/lib/commandpalette.d.ts",
-        "./node_modules/@lumino/widgets/lib/contextmenu.d.ts",
-        "./node_modules/@lumino/widgets/lib/docklayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/dockpanel.d.ts",
-        "./node_modules/@lumino/widgets/lib/focustracker.d.ts",
-        "./node_modules/@lumino/widgets/lib/gridlayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/layout.d.ts",
-        "./node_modules/@lumino/widgets/lib/menu.d.ts",
-        "./node_modules/@lumino/widgets/lib/menubar.d.ts",
-        "./node_modules/@lumino/widgets/lib/panel.d.ts",
-        "./node_modules/@lumino/widgets/lib/panellayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/scrollbar.d.ts",
-        "./node_modules/@lumino/widgets/lib/singletonlayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/splitlayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/splitpanel.d.ts",
-        "./node_modules/@lumino/widgets/lib/stackedlayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/stackedpanel.d.ts",
-        "./node_modules/@lumino/widgets/lib/tabbar.d.ts",
-        "./node_modules/@lumino/widgets/lib/tabpanel.d.ts",
-        "./node_modules/@lumino/widgets/lib/title.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxengine.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/commandpalette.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/contextmenu.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/docklayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/dockpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/focustracker.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/gridlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menu.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menubar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panellayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/scrollbar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/singletonlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabbar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/title.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/menubar.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/index.d.ts": [
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxengine.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/commandpalette.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/contextmenu.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/docklayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/dockpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/focustracker.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/gridlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menu.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menubar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panellayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/scrollbar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/singletonlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabbar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/title.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
+      ],
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menubar.d.ts": [
         "./node_modules/@lumino/messaging/lib/index.d.ts",
         "./node_modules/@lumino/virtualdom/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/menu.d.ts",
-        "./node_modules/@lumino/widgets/lib/title.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menu.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/title.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/contextmenu.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/contextmenu.d.ts": [
         "./node_modules/@lumino/commands/lib/index.d.ts",
         "./node_modules/@lumino/disposable/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/menu.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menu.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/commandpalette.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/commandpalette.d.ts": [
         "./node_modules/@lumino/coreutils/lib/index.d.ts",
         "./node_modules/@lumino/commands/lib/index.d.ts",
         "./node_modules/@lumino/messaging/lib/index.d.ts",
         "./node_modules/@lumino/virtualdom/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
       "./node_modules/@lumino/commands/lib/index.d.ts": [
         "./node_modules/@lumino/coreutils/lib/index.d.ts",
@@ -678,109 +734,109 @@
         "./node_modules/@lumino/signaling/lib/index.d.ts",
         "./node_modules/@lumino/virtualdom/lib/index.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/stackedlayout.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedlayout.d.ts": [
         "./node_modules/@lumino/messaging/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/panellayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panellayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/stackedpanel.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedpanel.d.ts": [
         "./node_modules/@lumino/signaling/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/panel.d.ts",
-        "./node_modules/@lumino/widgets/lib/stackedlayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/tabpanel.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabpanel.d.ts": [
         "./node_modules/@lumino/signaling/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/stackedpanel.d.ts",
-        "./node_modules/@lumino/widgets/lib/tabbar.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedpanel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabbar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/splitpanel.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitpanel.d.ts": [
         "./node_modules/@lumino/messaging/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/panel.d.ts",
-        "./node_modules/@lumino/widgets/lib/splitlayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/splitlayout.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitlayout.d.ts": [
         "./node_modules/@lumino/messaging/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/panellayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panellayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/scrollbar.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/scrollbar.d.ts": [
         "./node_modules/@lumino/messaging/lib/index.d.ts",
         "./node_modules/@lumino/signaling/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/gridlayout.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/gridlayout.d.ts": [
         "./node_modules/@lumino/algorithm/lib/index.d.ts",
         "./node_modules/@lumino/messaging/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/layout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/dockpanel.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/dockpanel.d.ts": [
         "./node_modules/@lumino/algorithm/lib/index.d.ts",
         "./node_modules/@lumino/messaging/lib/index.d.ts",
         "./node_modules/@lumino/signaling/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/docklayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/tabbar.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/docklayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabbar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/docklayout.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/docklayout.d.ts": [
         "./node_modules/@lumino/algorithm/lib/index.d.ts",
         "./node_modules/@lumino/messaging/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/layout.d.ts",
-        "./node_modules/@lumino/widgets/lib/tabbar.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabbar.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/tabbar.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabbar.d.ts": [
         "./node_modules/@lumino/messaging/lib/index.d.ts",
         "./node_modules/@lumino/signaling/lib/index.d.ts",
         "./node_modules/@lumino/virtualdom/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/title.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/title.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/boxlayout.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxlayout.d.ts": [
         "./node_modules/@lumino/messaging/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/panellayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panellayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/boxpanel.d.ts": [
-        "./node_modules/@lumino/widgets/lib/boxlayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/panel.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxpanel.d.ts": [
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxlayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panel.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/layout.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts": [
         "./node_modules/@lumino/algorithm/lib/index.d.ts",
         "./node_modules/@lumino/disposable/lib/index.d.ts",
         "./node_modules/@lumino/messaging/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/singletonlayout.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/singletonlayout.d.ts": [
         "./node_modules/@lumino/algorithm/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/layout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/panellayout.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panellayout.d.ts": [
         "./node_modules/@lumino/algorithm/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/layout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/panel.d.ts": [
-        "./node_modules/@lumino/widgets/lib/panellayout.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panel.d.ts": [
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panellayout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/widget.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts": [
         "./node_modules/@lumino/algorithm/lib/index.d.ts",
         "./node_modules/@lumino/disposable/lib/index.d.ts",
         "./node_modules/@lumino/messaging/lib/index.d.ts",
         "./node_modules/@lumino/signaling/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/layout.d.ts",
-        "./node_modules/@lumino/widgets/lib/title.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts",
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/title.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/focustracker.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/focustracker.d.ts": [
         "./node_modules/@lumino/disposable/lib/index.d.ts",
         "./node_modules/@lumino/signaling/lib/index.d.ts",
-        "./node_modules/@lumino/widgets/lib/widget.d.ts"
+        "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts"
       ],
       "./node_modules/@lumino/algorithm/lib/index.d.ts": [
         "./node_modules/@lumino/algorithm/lib/array.d.ts",
@@ -847,7 +903,7 @@
       "./node_modules/@lumino/algorithm/lib/chain.d.ts": [
         "./node_modules/@lumino/algorithm/lib/iter.d.ts"
       ],
-      "./node_modules/@lumino/widgets/lib/title.d.ts": [
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/title.d.ts": [
         "./node_modules/@lumino/signaling/lib/index.d.ts",
         "./node_modules/@lumino/virtualdom/lib/index.d.ts"
       ]
@@ -860,7 +916,7 @@
       "./node_modules/@lumino/coreutils/lib/token.d.ts",
       "./node_modules/@lumino/coreutils/lib/uuid.d.ts",
       "./node_modules/@lumino/coreutils/lib/index.d.ts",
-      "./node_modules/@lumino/widgets/lib/boxengine.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxengine.d.ts",
       "./node_modules/@lumino/messaging/lib/index.d.ts",
       "./node_modules/@lumino/algorithm/lib/array.d.ts",
       "./node_modules/@lumino/algorithm/lib/iter.d.ts",
@@ -883,32 +939,33 @@
       "./node_modules/@lumino/signaling/lib/index.d.ts",
       "./node_modules/@lumino/disposable/lib/index.d.ts",
       "./node_modules/@lumino/virtualdom/lib/index.d.ts",
-      "./node_modules/@lumino/widgets/lib/title.d.ts",
-      "./node_modules/@lumino/widgets/lib/widget.d.ts",
-      "./node_modules/@lumino/widgets/lib/layout.d.ts",
-      "./node_modules/@lumino/widgets/lib/panellayout.d.ts",
-      "./node_modules/@lumino/widgets/lib/boxlayout.d.ts",
-      "./node_modules/@lumino/widgets/lib/panel.d.ts",
-      "./node_modules/@lumino/widgets/lib/boxpanel.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/title.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/widget.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/layout.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panellayout.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxlayout.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/panel.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/boxpanel.d.ts",
       "./node_modules/@lumino/commands/lib/index.d.ts",
-      "./node_modules/@lumino/widgets/lib/commandpalette.d.ts",
-      "./node_modules/@lumino/widgets/lib/menu.d.ts",
-      "./node_modules/@lumino/widgets/lib/contextmenu.d.ts",
-      "./node_modules/@lumino/widgets/lib/tabbar.d.ts",
-      "./node_modules/@lumino/widgets/lib/docklayout.d.ts",
-      "./node_modules/@lumino/widgets/lib/dockpanel.d.ts",
-      "./node_modules/@lumino/widgets/lib/focustracker.d.ts",
-      "./node_modules/@lumino/widgets/lib/gridlayout.d.ts",
-      "./node_modules/@lumino/widgets/lib/menubar.d.ts",
-      "./node_modules/@lumino/widgets/lib/scrollbar.d.ts",
-      "./node_modules/@lumino/widgets/lib/singletonlayout.d.ts",
-      "./node_modules/@lumino/widgets/lib/splitlayout.d.ts",
-      "./node_modules/@lumino/widgets/lib/splitpanel.d.ts",
-      "./node_modules/@lumino/widgets/lib/stackedlayout.d.ts",
-      "./node_modules/@lumino/widgets/lib/stackedpanel.d.ts",
-      "./node_modules/@lumino/widgets/lib/tabpanel.d.ts",
-      "./node_modules/@lumino/widgets/lib/index.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/commandpalette.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menu.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/contextmenu.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabbar.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/docklayout.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/dockpanel.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/focustracker.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/gridlayout.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/menubar.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/scrollbar.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/singletonlayout.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitlayout.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/splitpanel.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedlayout.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/stackedpanel.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/tabpanel.d.ts",
+      "./node_modules/@jupyterlab/rendermime-interfaces/node_modules/@lumino/widgets/lib/index.d.ts",
       "./node_modules/@jupyterlab/rendermime-interfaces/lib/index.d.ts",
+      "./node_modules/@lumino/widgets/lib/index.d.ts",
       "./src/index.ts",
       "./src/types.d.ts",
       "./node_modules/typescript/lib/lib.es2015.d.ts",
