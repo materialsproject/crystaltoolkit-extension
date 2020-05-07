@@ -21,7 +21,6 @@ export class ThreeRenderer extends Widget implements IRenderMime.IRenderer {
     this.threeContainer = (document.createElement('div') as HTMLDivElement);
     this.threeContainer.setAttribute('style',  'height: 600px; width: 600px');
     this.node.appendChild(this.threeContainer);
-    console.log('created scene', this.threeScene);
   }
   /**
    * Render Plotly into this widget's node.
@@ -29,23 +28,33 @@ export class ThreeRenderer extends Widget implements IRenderMime.IRenderer {
   renderModel(model: IRenderMime.IMimeModel): Promise<void> {
     // Save off reference to model so that we can regenerate the plot later
     this.model = model;
-    this.threeScene = new Simple3DScene(
-      model,
-      this.threeContainer,
-      {},
-      50,
-      10,
-      (objects: any[]) => {
-        // not sure what to do here
-        console.log('clicked on objects', objects);
-      },
-      () => {
-        /* we do not need to dispatch camera changes*/
-      },
-      null
-    );
-    this.threeScene.addToScene(this.model.data[MIME_TYPE]);
+
+    // wait for the next event loop
+    setTimeout(() => {
+      this.threeScene = new Simple3DScene(
+          model,
+          this.threeContainer,
+          {},
+          50,
+          10,
+          (objects: any[]) => {
+            // not sure what to do here
+            console.log('clicked on objects', objects);
+          },
+          () => {
+            /* we do not need to dispatch camera changes*/
+          },
+          null
+      );
+      this.threeScene.addToScene(this.model.data[MIME_TYPE]);
+      this.threeScene.resizeRendererToDisplaySize()
+    }, 0);
+
     return Promise.resolve();
+  }
+
+  dispose() {
+    this.threeScene.onDestroy();
   }
 }
 
