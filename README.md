@@ -1,6 +1,6 @@
-# jupyerlab-mp4
+A JupyterLab extension for rendering 3D scenes generated using [Crystal Toolkit](https://crystaltoolkit.org).
 
-A JupyterLab extension for rendering three scene
+Thanks to [jupyterlab-mp4](https://github.com/jupyterlab/jupyterlab-mp4) for extension structure.
 
 ## Prerequisites
 
@@ -9,7 +9,7 @@ A JupyterLab extension for rendering three scene
 ## Installation
 
 ```bash
-jupyter labextension install jupyerlab-mp4
+jupyter labextension install ...
 ```
 
 ## Development
