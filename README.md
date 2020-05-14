@@ -28,3 +28,13 @@ npm run build
 jupyter lab build
 ```
 
+## Publish
+
+The extension can be published as a npm package.
+
+Rebuild the package, bump the version number in `package.json`, then publish :
+
+```bash 
+npm publish
+```
+
