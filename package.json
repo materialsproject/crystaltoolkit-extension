@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@jupyterlab/rendermime-interfaces": "^2.0.0",
-    "mat-periodic-table": "next",
+    "@materialsproject/mp-react-components": "next",
     "@lumino/widgets": "^1.5.0"
   },
   "devDependencies": {

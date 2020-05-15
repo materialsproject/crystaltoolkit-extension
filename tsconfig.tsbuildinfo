@@ -326,7 +326,7 @@
         "signature": "ce75ab9766be65e1b6837cba39ea25ebfbe25f431e0f97e1863743817fad2d91"
       },
       "./src/index.ts": {
-        "version": "23cc3f435e543a19ddc3febb365f32b75f1a1f7b3e30e9f6d4f36f30c079a78d",
+        "version": "3e85e35b92f29e1231cdf50cde8e70a6780b864c28ac4006fc9f6e5b33365de6",
         "signature": "5df7b652eaca80cc16ffbe42b606fad8a4b826629af5622633eb0c59265339c7"
       },
       "./src/types.d.ts": {

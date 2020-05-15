@@ -28,7 +28,7 @@ npm run build
 jupyter lab build
 ```
 
-## Publish
+## Publish extension
 
 The extension can be published as a npm package.
 

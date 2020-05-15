@@ -1,6 +1,6 @@
 import { IRenderMime } from '@jupyterlab/rendermime-interfaces';
 import { Widget } from '@lumino/widgets';
-import { Simple3DScene } from 'mat-periodic-table';
+import { Simple3DScene } from '@materialsproject/mp-react-components';
 
 export const MIME_TYPE = 'application/vnd.mp.v1+json';
 export const CSS_CLASS = 'jp-three';
